@@ -33,3 +33,15 @@ Exercícios de Fixação em Java, relativos a manipulação de datas, polimorfis
 
 ## Polimorfismo
 ### ExercFixa
+![](https://github.com/pedronb/Exercicios-Java/blob/main/images/exercfixa1.png)
+
+- Saída:
+
+![](https://github.com/pedronb/Exercicios-Java/blob/main/images/exercfixa2.png)
+
+### ExercPolimo
+![](https://github.com/pedronb/Exercicios-Java/blob/main/images/polimorf1.png)
+
+- Saída:
+
+![](https://github.com/pedronb/Exercicios-Java/blob/main/images/polimorf2.png)
