@@ -14,4 +14,8 @@ Exercícios de Fixação em Java, relativos a manipulação de datas, polimorfis
 
 ## Composição
 ### composition1
+![](https://github.com/pedronb/Exercicios-Java/blob/main/images/composition1.png)
 
+-Saída:
+
+![](https://github.com/pedronb/Exercicios-Java/blob/main/images/composition12.png)
